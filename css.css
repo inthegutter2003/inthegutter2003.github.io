@@ -1,0 +1,56 @@
+body{
+	background-color:black;
+}
+
+#BackG{
+	margin-top:0;
+	margin-left:-10vw;
+	width:98vw;
+	height:98vw;
+}
+
+#HDown{
+	color:red;
+	position:absolute;
+	margin-top:15vw;
+	margin-left:74vw;
+	font-size:5vw;
+	text-decoration:underline;
+}
+
+#Htxt{
+	color:Blue;
+	position:absolute;
+	margin-top:25vw;
+	margin-left:74vw;
+	font-size:5vw;
+	text-decoration:underline;
+}
+
+#HPP{
+	color:Blue;
+	position:absolute;
+	margin-top:35vw;
+	margin-left:74vw;
+	font-size:3vw;
+	text-decoration:underline;	
+}
+
+#HP2003{
+	color:Blue;
+	position:absolute;
+	margin-top:43vw;
+	margin-left:74vw;
+	font-size:3vw;
+	text-decoration:underline;	
+}
+
+
+#Hand{
+	margin-top:69vw;
+	margin-left:81vw;
+	width:10vw;
+	height:12vw;
+	position:absolute;
+	border-radius:100%
+}
